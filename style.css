@@ -9,7 +9,7 @@
 
 @media (max-width: 1440px) {
   body {
-    background-image: url("images/pattern-background-desktop.svg");
+    background-image: url("https://github.com/ethanyourd/ordersummary/blob/main/images/pattern-background-desktop.svg");
     background-color: hsl(225, 100%, 94%);
   }
 }
